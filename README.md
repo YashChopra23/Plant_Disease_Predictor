@@ -1,3 +1,5 @@
+App is live on https://plant-disease-predictor-yash12.streamlit.app/
+
 I have developed the app using two Machine Learning pipelines.
 
 Primary ML model
